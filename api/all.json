@@ -1,3 +1,20 @@
 {
-	"source": ""
+    "content": {
+        "backend": {
+            "intro": "backend/intro.md",
+            "skills": "backend/skills.md",
+            "roadmap": "backend/roadmap.md"
+        },
+        "devops": {
+            "intro": "devops/intro.md",
+            "skills": "devops/skills.md",
+            "roadmap": "devops/roadmap.md"
+        },
+        "frontend": {
+            "intro": "frontend/intro.md",
+            "skills": "frontend/skills.md",
+            "roadmap": "frontend/roadmap.md"
+        }
+    },
+    "source": "http://awesome-growth.phodal.com/"
 }
