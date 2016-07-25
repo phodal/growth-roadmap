@@ -2,18 +2,68 @@
     "content": {
         "backend": {
             "roadmap": "backend/roadmap.md",
-            "skills": "backend/skills.md"
+            "skillList": "backend/skills.md",
+            "timeline": [
+                {
+                    "description": "",
+                    "section": "",
+                    "skills": []
+                }
+            ]
         },
         "common": {
-            "skills": "common/skills.md"
+            "skillList": "common/skills.md"
         },
         "devops": {
             "roadmap": "devops/roadmap.md",
-            "skills": "devops/skills.md"
+            "skillList": "devops/skills.md",
+            "timeline": [
+                {
+                    "description": "",
+                    "section": "",
+                    "skills": []
+                }
+            ]
         },
         "frontend": {
             "roadmap": "frontend/roadmap.md",
-            "skills": "frontend/skills.md"
+            "skillList": "frontend/skills.md",
+            "timeline": [
+                {
+                    "description": "基础的description",
+                    "section": "基础",
+                    "skills": [
+                        "HTML / CSS",
+                        "JavaScript",
+                        "正则表达式",
+                        "数据格式（如JSON、XML）"
+                    ]
+                },
+                {
+                    "description": "中级篇description",
+                    "section": "中级篇",
+                    "skills": [
+                        "ES6",
+                        "SCSS",
+                        "HTML语义化",
+                        "CSS3",
+                        "面向对象编程",
+                        "函数式编程",
+                        "安全性（如跨域）"
+                    ]
+                },
+                {
+                    "description": "工程化description",
+                    "section": "工程化",
+                    "skills": [
+                        "代码质量",
+                        "代码分析",
+                        "测试覆盖率",
+                        "构建系统",
+                        "自动构建"
+                    ]
+                }
+            ]
         }
     },
     "source": "http://awesome-growth.phodal.com/"
