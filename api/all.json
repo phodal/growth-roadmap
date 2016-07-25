@@ -1,16 +1,19 @@
 {
     "content": {
         "backend": {
-            "skills": "backend/skills.md",
-            "roadmap": "backend/roadmap.md"
+            "roadmap": "backend/roadmap.md",
+            "skills": "backend/skills.md"
+        },
+        "common": {
+            "skills": "common/skills.md"
         },
         "devops": {
-            "skills": "devops/skills.md",
-            "roadmap": "devops/roadmap.md"
+            "roadmap": "devops/roadmap.md",
+            "skills": "devops/skills.md"
         },
         "frontend": {
-            "skills": "frontend/skills.md",
-            "roadmap": "frontend/roadmap.md"
+            "roadmap": "frontend/roadmap.md",
+            "skills": "frontend/skills.md"
         }
     },
     "source": "http://awesome-growth.phodal.com/"
