@@ -1,6 +1,8 @@
 {
-    "content": {
-        "backend": {
+    "content": [
+        {
+            "domain": "backend",
+            "name": "后台",
             "roadmap": "backend/roadmap.md",
             "skillList": "backend/skills.md",
             "timeline": [
@@ -11,10 +13,9 @@
                 }
             ]
         },
-        "common": {
-            "skillList": "common/skills.md"
-        },
-        "devops": {
+        {
+            "domain": "devops",
+            "name": "DevOps",
             "roadmap": "devops/roadmap.md",
             "skillList": "devops/skills.md",
             "timeline": [
@@ -25,7 +26,9 @@
                 }
             ]
         },
-        "frontend": {
+        {
+            "domain": "frontend",
+            "name": "前端",
             "roadmap": "frontend/roadmap.md",
             "skillList": "frontend/skills.md",
             "timeline": [
@@ -65,6 +68,6 @@
                 }
             ]
         }
-    },
+    ],
     "source": "http://awesome-growth.phodal.com/"
 }
