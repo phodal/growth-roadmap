@@ -2,7 +2,7 @@
    * HTML / CSS
    * JavaScript
    * Node.js
-   * **正规表达式**
+   * 正则表达式
    * 数据格式（如JSON、XML）
    * RESTful API交互（如jQuery Ajax，Fetch API，ReactiveX）
    * 命令行
