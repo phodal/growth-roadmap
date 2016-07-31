@@ -9,11 +9,12 @@
    * HTML语义化
    * 命令行
    * Node.js
+   * DIV / CSS
+   * SCSS / SASS 
    * 矢量图形 / 矢量图形动画（如SVG）
    * 单页面应用
  - 高级篇
-   * ES6 / CoffeScript / TypeScript 
-   * SCSS / SASS 
+   * ES6 / TypeScript 
    * CSS3
    * 面向对象编程
    * 函数式编程
