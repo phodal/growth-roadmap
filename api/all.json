@@ -65,6 +65,85 @@
                         "构建系统",
                         "自动构建"
                     ]
+                },
+                {
+                    "description": "兼容性description",
+                    "section": "兼容性",
+                    "skills": [
+                        "跨浏览器测试",
+                        "跨平台测试",
+                        "测试覆盖率",
+                        "构建系统",
+                        "跨设备测试"
+                    ]
+                },
+                {
+                    "description": "前端特定description",
+                    "section": "前端特定",
+                    "skills": [
+                        "CSS3 动画",
+                        "JavaScript 动画",
+                        "Web字体嵌入",
+                        "图形和图表",
+                        "CSS Sprite",
+                        "DOM操作",
+                        "模板引擎"
+                    ]
+                },
+                {
+                    "description": "软件工程description",
+                    "section": "软件工程",
+                    "skills": [
+                        "版本管理",
+                        "包管理",
+                        "Web字体嵌入",
+                        "依赖管理",
+                        "模块化"
+                    ]
+                },
+                {
+                    "description": "调试description",
+                    "section": "调试",
+                    "skills": [
+                        "浏览器调试",
+                        "Debug工具",
+                        "Wireshark / Charles抓包",
+                        "依赖管理",
+                        "远程设备调试"
+                    ]
+                },
+                {
+                    "description": "测试description",
+                    "section": "测试",
+                    "skills": [
+                        "单元测试",
+                        "服务测试",
+                        "UI测试",
+                        "集成测试"
+                    ]
+                },
+                {
+                    "description": "设计description",
+                    "section": "设计",
+                    "skills": [
+                        "切页面",
+                        "线框图（Wireframe）",
+                        "响应式设计",
+                        "网格布局（Grid Layout）",
+                        "Flexbox布局"
+                    ]
+                },
+                {
+                    "description": "SEOdescription",
+                    "section": "SEO",
+                    "skills": [
+                        "Sitemap",
+                        "内部链接建设",
+                        "MicroData / MicroFormat",
+                        "页面静态内容生成",
+                        "Title、Description优化",
+                        "H1、H2、H3和strong使用"
+                    ]
                 }
             ]
         }

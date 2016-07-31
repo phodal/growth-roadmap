@@ -70,4 +70,7 @@
    * 内部链接建设
    * MicroData / MicroFormat
    * 页面静态内容生成
+   * H1、H2、H3和strong使用
+   * Title、Description优化
+   * 页面静态内容生成
    
