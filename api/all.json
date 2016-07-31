@@ -34,25 +34,39 @@
             "timeline": [
                 {
                     "description": "基础的description",
-                    "section": "基础",
+                    "section": "在我理解下的基础知识，就是我们可以写一些基本的样式，并能对页面的元素进行操作。举例来说，就是我们用Spring和JSP写了一个博客，然后我们可以用jQuery来对页面进行一些简单的操作，并可以调用一些API。因此，我们需要基本的HTML / CSS知识。只是要写好CSS并不是一件简单的事，这需要很多实战经验。随后，我们还需要有JavaScript的经验，要不怎么做前端呢？同时，我们还需要对DOM有一些基础的了解，才能做一些基本的操作，如修改颜色等等。在这种情况下，最简单的方案就是使用jQuery这样的工具。不过，如果可以自己操作DOM是再好不过的了。",
                     "skills": [
                         "HTML / CSS",
                         "JavaScript",
-                        "正则表达式",
-                        "数据格式（如JSON、XML）"
+                        "DOM"
                     ]
                 },
                 {
                     "description": "中级篇description",
                     "section": "中级篇",
                     "skills": [
-                        "ES6",
-                        "SCSS",
+                        "数据格式（如JSON）",
+                        "RESTful API交互（如jQuery Ajax，Fetch API，ReactiveX）",
+                        "正则表达式",
                         "HTML语义化",
+                        "命令行",
+                        "Node.js",
+                        "矢量图形 / 矢量图形动画（如SVG）",
+                        "单页面应用"
+                    ]
+                },
+                {
+                    "description": "高级篇description",
+                    "section": "高级篇",
+                    "skills": [
+                        "ES6 / CoffeScript / TypeScript",
+                        "SCSS / SASS",
                         "CSS3",
                         "面向对象编程",
                         "函数式编程",
-                        "安全性（如跨域）"
+                        "MVC / MVVM / MV*",
+                        "安全性（如跨域）",
+                        "授权（如HTTP Basic、JWT等等）"
                     ]
                 },
                 {

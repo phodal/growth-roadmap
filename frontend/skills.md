@@ -1,21 +1,23 @@
  - 基础
    * HTML / CSS
    * JavaScript
-   * Node.js
-   * 正则表达式
+   * DOM
+ - 中级篇 
    * 数据格式（如JSON、XML）
    * RESTful API交互（如jQuery Ajax，Fetch API，ReactiveX）
+   * 正则表达式
+   * HTML语义化
    * 命令行
- - 中级篇
+   * Node.js
+   * 矢量图形 / 矢量图形动画（如SVG）
+   * 单页面应用
+ - 高级篇
    * ES6 / CoffeScript / TypeScript 
    * SCSS / SASS 
    * CSS3
-   * HTML语义化
    * 面向对象编程
    * 函数式编程
    * MVC / MVVM / MV*
-   * 矢量图形 / 矢量图形动画（如SVG）
-   * 单页面应用
    * 安全性（如跨域）
    * 授权（如HTTP Basic、JWT等等）
  - 工程化
