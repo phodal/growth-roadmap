@@ -7,21 +7,24 @@ Awesome Growth
  - 基础
    * HTML / CSS
    * JavaScript
-   * Node.js
-   * **正规表达式**
+   * DOM
+ - 中级篇 
    * 数据格式（如JSON、XML）
    * RESTful API交互（如jQuery Ajax，Fetch API，ReactiveX）
-   * 命令行
- - 中级篇
-   * ES6 / CoffeScript / TypeScript 
-   * SCSS / SASS 
-   * CSS3
+   * 正则表达式
    * HTML语义化
+   * 命令行
+   * Node.js
+   * DIV / CSS
+   * SCSS / SASS 
+   * 矢量图形 / 矢量图形动画（如SVG）
+   * 单页面应用
+ - 高级篇
+   * ES6 / TypeScript 
+   * CSS3
    * 面向对象编程
    * 函数式编程
    * MVC / MVVM / MV*
-   * 矢量图形 / 矢量图形动画（如SVG）
-   * 单页面应用
    * 安全性（如跨域）
    * 授权（如HTTP Basic、JWT等等）
  - 工程化
@@ -76,6 +79,10 @@ Awesome Growth
    * 内部链接建设
    * MicroData / MicroFormat
    * 页面静态内容生成
+   * H1、H2、H3和strong使用
+   * Title、Description优化
+   * 页面静态内容生成
+   
 
 License
 ---
