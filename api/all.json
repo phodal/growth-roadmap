@@ -20,10 +20,30 @@
             "skillList": "devops/skills.md",
             "timeline": [
                 {
-                    "description": "还在撰写中",
-                    "section": "待续",
+                    "description": "基础",
+                    "section": "* HTML / CSS <br> * 编程语言：Java / Python / PHP / Ruby等等 <br> * Web框架，如Spring MVC、Flask、Laravel等等",
                     "skills": []
-                }
+                },
+                {
+                    "description": "基础设施",
+                    "section": "",
+                    "skills": []
+                },
+                {
+                    "description": "数据持久化",
+                    "section": "SQL、ORM、Database",
+                    "skills": []
+                },
+                {
+                    "description": "Services",
+                    "section": "REST、SOA、RPC",
+                    "skills": []
+                },
+                {
+                    "description": "消息队列",
+                    "section": "",
+                    "skills": []
+                },
             ]
         },
         {
