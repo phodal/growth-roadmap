@@ -71,7 +71,22 @@
             "timeline": [
                 {
                     "description": "* HTML / CSS <br> * 编程语言：Java / Python / PHP / Ruby等等 <br> * Web框架，如Spring MVC、Flask、Laravel等等",
-                    "section": "基础",
+                    "section": "入门",
+                    "skills": []
+                },
+                {
+                    "description": "",
+                    "section": "中级篇",
+                    "skills": []
+                },
+                {
+                    "description": "",
+                    "section": "高级篇",
+                    "skills": []
+                },
+                {
+                    "description": "",
+                    "section": "工程化",
                     "skills": []
                 },
                 {
@@ -80,18 +95,38 @@
                     "skills": []
                 },
                 {
-                    "description": "SQL、ORM、Database",
-                    "section": "数据持久化",
-                    "skills": []
-                },
-                {
-                    "description": "REST、SOA、RPC",
-                    "section": "Services",
+                    "description": "",
+                    "section": "缓存篇",
                     "skills": []
                 },
                 {
                     "description": "",
-                    "section": "消息队列",
+                    "section": "数据持久化",
+                    "skills": []
+                },
+                {
+                    "description": "",
+                    "section": "数据库",
+                    "skills": []
+                },
+                {
+                    "description": "",
+                    "section": "安全和加密",
+                    "skills": []
+                },
+                {
+                    "description": "",
+                    "section": "监控",
+                    "skills": []
+                },
+                {
+                    "description": "",
+                    "section": "服务",
+                    "skills": []
+                },
+                {
+                    "description": "",
+                    "section": "消息",
                     "skills": []
                 }
             ]

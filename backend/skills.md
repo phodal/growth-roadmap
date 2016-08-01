@@ -1,52 +1,43 @@
- - 基础
+ - 入门
     * HTML / CSS
   	* 编程语言：Java / Python / PHP / Ruby等等
   	* Web框架，如Spring MVC、Flask、Laravel等等
-    * HTTP
-    * CGI基本原理
-    * XML和JSON处理。。
+    * HTTP协议基础
+    * CGI基础
  - 中级篇
+    * XML和JSON处理
     * 数据结构与算法
     * 面向对象编程
     * CMS
-    * HTTPS
+    * API设计
  - 高级篇
     * 函数式编程
     * 领域驱动设计
-    * MVC / MVVM / MV*
-    * 安全性（如跨域）
-    * 操作系统原理
- - 调试
+    * MVC架构
+    * 运行环境优化，如JVM
     * 远程调试    
  - 工程化
     * 版本管理
     * 单元测试
+    * 依赖管理
+    * 包管理    
+ - 基础设施
+    * 虚拟化，如Docker
+    * 自动化部署
+    * 应用包创建、管理、发布
+    * 发布脚本编写
+    * Web容器，如Jboss
  - 缓存篇
     * 应用层缓存 
     * 平台缓存
     * 数据库端缓存
     * 分布式缓存 
- - 性能优化
-    * 运行环境优化，如JVM
-    * 操作系统优化
- - 基础设施
-    * Docker
-    * 自动化部署
-    * 依赖管理
-    * 包管理
-    * Linux下包创建、管理
-    * 打包脚本编写
-    * Web容器，如Jboss
  - 数据持久化
     * SQL
     * NoSQL
-    * Database
     * ORM
     * DBMS
- - 搜索和查询
     * 搜索引擎
-    * 模糊查询
-    * 索引
  - 数据库
     * 查询性能优化
     * 结构优化
@@ -66,10 +57,9 @@
     * 流量监控
  - 服务
     * RESTful
-    * SOA / RPC
+    * SOA
+    * RPC
     * MicroServices
  - 消息
  	* JMS
  	* IPC
- - 其他
-    * API设计
