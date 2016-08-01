@@ -70,62 +70,62 @@
             "skillList": "backend/skills.md",
             "timeline": [
                 {
-                    "description": "* HTML / CSS <br> * 编程语言：Java / Python / PHP / Ruby等等 <br> * Web框架，如Spring MVC、Flask、Laravel等等",
+                    "description": "* HTML / CSS <br> * 编程语言：Java / Python / PHP / Ruby等等 <br> * Web框架，如Spring MVC、Flask、Laravel等等  <br> HTTP协议基础 <br> CGI基础",
                     "section": "入门",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": "XML和JSON处理 <br> 数据结构与算法 <br> 面向对象编程 <br> CMS <br> API设计",
                     "section": "中级篇",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": "函数式编程 <br> 领域驱动设计 <br> MVC架构 <br> 运行环境优化，如JVM <br> 远程调试",
                     "section": "高级篇",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": "版本管理 <br>单元测试 <br>依赖管理 <br>包管理",
                     "section": "工程化",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": " 虚拟化，如Docker <br>自动化部署 <br>应用包创建、管理、发布 <br>发布脚本编写 <br>Web容器，如Jboss",
                     "section": "基础设施",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": "应用层缓存  <br>平台缓存 <br>数据库端缓存 <br>分布式缓存",
                     "section": "缓存篇",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": "应用层缓存 <br>平台缓存 <br>数据库端缓存 <br>分布式缓存 ",
                     "section": "数据持久化",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": "查询性能优化 <br>结构优化 <br>主从复制、主主复制等等 <br>伸缩性与高可用性 <br>备份恢复与容灾",
                     "section": "数据库",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": "认证与会话管理 <br> 加密解密 <br> 数字签名、数字证书 <br>加密算法 <br>XSS/CSRF/SQL注入",
                     "section": "安全和加密",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": "应用性能监控 <br>异常监控 <br>日志 <br>流量监控",
                     "section": "监控",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": "RESTful <br>SOA <br>RPC <br>MicroServices",
                     "section": "服务",
                     "skills": []
                 },
                 {
-                    "description": "",
+                    "description": "JMS <br>IPC <br>MQ",
                     "section": "消息",
                     "skills": []
                 }
