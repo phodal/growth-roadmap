@@ -34,6 +34,19 @@
             ]
         },
         {
+            "domain": "softskill",
+            "name": "软技能",
+            "roadmap": "softskill/roadmap.md",
+            "skillList": "softskill/skills.md",
+            "timeline": [
+                {
+                    "description": "还在撰写中",
+                    "section": "8月8号前发布，尽请期待",
+                    "skills": []
+                }
+            ]
+        },
+        {
             "domain": "devops",
             "name": "DevOps",
             "roadmap": "devops/roadmap.md",
