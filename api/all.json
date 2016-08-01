@@ -1,65 +1,6 @@
 {
     "content": [
         {
-            "domain": "backend",
-            "name": "后台",
-            "roadmap": "backend/roadmap.md",
-            "skillList": "backend/skills.md",
-            "timeline": [
-                {
-                    "description": "* HTML / CSS <br> * 编程语言：Java / Python / PHP / Ruby等等 <br> * Web框架，如Spring MVC、Flask、Laravel等等",
-                    "section": "基础",
-                    "skills": []
-                },
-                {
-                    "description": "",
-                    "section": "基础设施",
-                    "skills": []
-                },
-                {
-                    "description": "SQL、ORM、Database",
-                    "section": "数据持久化",
-                    "skills": []
-                },
-                {
-                    "description": "REST、SOA、RPC",
-                    "section": "Services",
-                    "skills": []
-                },
-                {
-                    "description": "",
-                    "section": "消息队列",
-                    "skills": []
-                }
-            ]
-        },
-        {
-            "domain": "softskill",
-            "name": "软技能",
-            "roadmap": "softskill/roadmap.md",
-            "skillList": "softskill/skills.md",
-            "timeline": [
-                {
-                    "description": "还在撰写中",
-                    "section": "8月8号前发布，尽请期待",
-                    "skills": []
-                }
-            ]
-        },
-        {
-            "domain": "devops",
-            "name": "DevOps",
-            "roadmap": "devops/roadmap.md",
-            "skillList": "devops/skills.md",
-            "timeline": [
-                {
-                    "description": "还在撰写中",
-                    "section": "8月8号前发布，尽请期待",
-                    "skills": []
-                }
-            ]
-        },
-        {
             "domain": "frontend",
             "name": "前端",
             "roadmap": "frontend/roadmap.md",
@@ -118,6 +59,65 @@
                 {
                     "description": "如果以搜索引擎作为流量来源，我们还需要考虑页面的内容，除非你用的是竞争排名。像Sitemap可能就不是我们考虑的内容，而我们还要考虑很多点。首先，我们需要保证页面的内容是对于搜索引擎是可见的，并且对应的页面还要有基本的Title、Description和Keyword。然后在一些关键的字体，如栏目标题等等可以用H2之类的大字的地方就不要放过。同时在页面设计的过程中，我们还需要考虑一些内部链接的建设。它即可以提供页面的可见度，又可以提高排名。最后，如果你是面向的是Google等支持结构化数据的搜索引擎，你还需要考虑一下MicroData / MicroFormat这一类东西。",
                     "section": "SEO",
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "domain": "backend",
+            "name": "后台",
+            "roadmap": "backend/roadmap.md",
+            "skillList": "backend/skills.md",
+            "timeline": [
+                {
+                    "description": "* HTML / CSS <br> * 编程语言：Java / Python / PHP / Ruby等等 <br> * Web框架，如Spring MVC、Flask、Laravel等等",
+                    "section": "基础",
+                    "skills": []
+                },
+                {
+                    "description": "",
+                    "section": "基础设施",
+                    "skills": []
+                },
+                {
+                    "description": "SQL、ORM、Database",
+                    "section": "数据持久化",
+                    "skills": []
+                },
+                {
+                    "description": "REST、SOA、RPC",
+                    "section": "Services",
+                    "skills": []
+                },
+                {
+                    "description": "",
+                    "section": "消息队列",
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "domain": "softskill",
+            "name": "软技能",
+            "roadmap": "softskill/roadmap.md",
+            "skillList": "softskill/skills.md",
+            "timeline": [
+                {
+                    "description": "还在撰写中",
+                    "section": "8月8号前发布，尽请期待",
+                    "skills": []
+                }
+            ]
+        },
+        {
+            "domain": "devops",
+            "name": "DevOps",
+            "roadmap": "devops/roadmap.md",
+            "skillList": "devops/skills.md",
+            "timeline": [
+                {
+                    "description": "还在撰写中",
+                    "section": "8月8号前发布，尽请期待",
                     "skills": []
                 }
             ]
