@@ -151,8 +151,53 @@
             "skillList": "devops/skills.md",
             "timeline": [
                 {
+                    "description": " 编写脚本，如Shell、Perl、Rython等等 <br> 编程语言 <br> Web应用运行基本原理 <br> HTTP服务器 <br> 应用容器 <br> 命令行，如awk <br> CGI <br> 修复漏洞",
+                    "section": "入门篇",
+                    "skills": []
+                },
+                {
+                    "description": "自动化运维 <br> GNU/Linux操作系统 <br> 编译 <br> 数据库",
+                    "section": "中级篇",
+                    "skills": []
+                },
+                {
+                    "description": "Toggle",
+                    "section": "配置管理",
+                    "skills": []
+                },
+                {
                     "description": "还在撰写中",
-                    "section": "8月8号前发布，尽请期待",
+                    "section": "云服务",
+                    "skills": []
+                },
+                {
+                    "description": "还在撰写中",
+                    "section": "安全性",
+                    "skills": []
+                },
+                {
+                    "description": "持续集成工具 <br> 自动构建工具 <br> 依赖管理工具 <br> 版本管理工具",
+                    "section": "持续集成",
+                    "skills": []
+                },
+                {
+                    "description": "应用容器虚拟化，如Docker <br> 环境虚拟化 <br> 操作系统虚拟化",
+                    "section": "虚拟化",
+                    "skills": []
+                },
+                {
+                    "description": "自动化配置 <br> 自动化部署",
+                    "section": "自动化",
+                    "skills": []
+                },
+                {
+                    "description": "基础设施监控 <br> 日志管理 <br> 监控服务 ",
+                    "section": "监控",
+                    "skills": []
+                },
+                {
+                    "description": "边缘缓存，如（Varnish）<br> DNS负载均衡 <br> CDN",
+                    "section": "负载均衡",
                     "skills": []
                 }
             ]
