@@ -138,8 +138,38 @@
             "skillList": "softskill/skills.md",
             "timeline": [
                 {
-                    "description": "还在撰写中",
-                    "section": "8月8号前发布，尽请期待",
+                    "description": "写作 <br> 演讲 <br> 培训 <br> 博客 <br> 社交媒体",
+                    "section": "影响力 / 个人品牌",
+                    "skills": []
+                },
+                {
+                    "description": "社交媒体交流 <br> 自媒体平台 <br> 技术社区 <br> 问答社区",
+                    "section": "社区",
+                    "skills": []
+                },
+                {
+                    "description": "学习新技术、语言",
+                    "section": "持续学习",
+                    "skills": []
+                },
+                {
+                    "description": "运动 <br> 不熬夜",
+                    "section": "健康",
+                    "skills": []
+                },
+                {
+                    "description": "熟悉工具 <br> 快捷键、快捷键、快捷键",
+                    "section": "生产力",
+                    "skills": []
+                },
+                {
+                    "description": "完成时间估算 <br> 延迟花费 <br> 预算估算 <br> 薪资估算",
+                    "section": "估算",
+                    "skills": []
+                },
+                {
+                    "description": "面试 <br> 客户沟通",
+                    "section": "其他",
                     "skills": []
                 }
             ]
