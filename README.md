@@ -1,7 +1,9 @@
 Awesome Growth：技能图谱
 ===
 
-The Part of [Growth Plan](https://github.com/phodal/growth).
+The Part of [Growth Plan](https://github.com/phodal/growth)，由Phodal整理和发布，见：
+
+![QRCode](http://articles.phodal.com/qrcode.jpg)
 
 前端技能图谱
 ---
