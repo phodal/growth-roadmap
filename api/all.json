@@ -231,6 +231,19 @@
                     "skills": []
                 }
             ]
+        },
+        {
+            "domain": "hybird",
+            "name": "混合应用",
+            "roadmap": "hybird/roadmap.md",
+            "skillList": "hybird/skills.md",
+            "timeline": [
+                {
+                    "description": "TBC",
+                    "section": "TBC",
+                    "skills": []
+                }
+            ]
         }
     ],
     "source": "http://awesome-growth.phodal.com/"
