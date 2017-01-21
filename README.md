@@ -162,7 +162,7 @@ DevOps技能图谱
 ---
 
  - 入门篇
-    * 编写脚本，如Shell、Perl、Rython等等
+    * 编写脚本，如Shell、Perl、Python等等
     * 编程语言
     * Web应用运行基本原理
     * HTTP服务器
