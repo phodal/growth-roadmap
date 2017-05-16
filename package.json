@@ -1,0 +1,7 @@
+{
+  "name": "awesome-gitbook-cn",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mdast": "^2.0.0"
+  }
+}

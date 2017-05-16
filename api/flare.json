@@ -1,0 +1,746 @@
+[
+    {
+        "name": "前端技能图谱",
+        "children": [
+            {
+                "name": "基础",
+                "children": [
+                    {
+                        "name": "HTML / CSS"
+                    },
+                    {
+                        "name": "JavaScript"
+                    },
+                    {
+                        "name": "DOM"
+                    }
+                ]
+            },
+            {
+                "name": "中级篇 ",
+                "children": [
+                    {
+                        "name": "数据格式（如JSON、XML）"
+                    },
+                    {
+                        "name": "RESTful API交互（如jQuery Ajax，Fetch API，ReactiveX）"
+                    },
+                    {
+                        "name": "正则表达式"
+                    },
+                    {
+                        "name": "HTML语义化"
+                    },
+                    {
+                        "name": "命令行"
+                    },
+                    {
+                        "name": "Node.js"
+                    },
+                    {
+                        "name": "DIV / CSS"
+                    },
+                    {
+                        "name": "SCSS / SASS "
+                    },
+                    {
+                        "name": "矢量图形 / 矢量图形动画（如SVG）"
+                    },
+                    {
+                        "name": "单页面应用"
+                    }
+                ]
+            },
+            {
+                "name": "高级篇",
+                "children": [
+                    {
+                        "name": "ES6 / TypeScript "
+                    },
+                    {
+                        "name": "CSS3"
+                    },
+                    {
+                        "name": "面向对象编程"
+                    },
+                    {
+                        "name": "函数式编程"
+                    },
+                    {
+                        "name": "MVC / MVVM / MV*"
+                    },
+                    {
+                        "name": "安全性（如跨域）"
+                    },
+                    {
+                        "name": "授权（如HTTP Basic、JWT等等）"
+                    }
+                ]
+            },
+            {
+                "name": "工程化",
+                "children": [
+                    {
+                        "name": "代码质量（如JSLint / ESLint / TSLint / CSLint）"
+                    },
+                    {
+                        "name": "代码分析（如Code Climate）"
+                    },
+                    {
+                        "name": "测试覆盖率"
+                    },
+                    {
+                        "name": "构建系统（gulp、grunt、webpack等等）"
+                    },
+                    {
+                        "name": "自动构建（脚本）"
+                    }
+                ]
+            },
+            {
+                "name": "兼容性",
+                "children": [
+                    {
+                        "name": "跨浏览器测试 （Chrome，IE，Firefox，Safari等等）"
+                    },
+                    {
+                        "name": "跨平台测试（Windows、GNU/Linux，Mac OS等等）"
+                    },
+                    {
+                        "name": "跨设备测试（Desktop，Android，iOS，Windows Phone）"
+                    },
+                    {
+                        "name": "跨版本测试（同一个浏览器的不同版本）"
+                    }
+                ]
+            },
+            {
+                "name": "前端特定",
+                "children": [
+                    {
+                        "name": "CSS / CSS3 动画"
+                    },
+                    {
+                        "name": "JavaScript 动画"
+                    },
+                    {
+                        "name": "Web字体嵌入"
+                    },
+                    {
+                        "name": "Icon 字体"
+                    },
+                    {
+                        "name": "图形和图表"
+                    },
+                    {
+                        "name": "CSS Sprite（如glue）"
+                    },
+                    {
+                        "name": "DOM操作（如jQuery、React等等）"
+                    },
+                    {
+                        "name": "模板引擎（如JSX、Handlebars、JSP、Mustache等等）"
+                    }
+                ]
+            },
+            {
+                "name": "软件工程",
+                "children": [
+                    {
+                        "name": "版本管理（如git、svn） "
+                    },
+                    {
+                        "name": "包管理（如npm、bower）"
+                    },
+                    {
+                        "name": "依赖管理"
+                    },
+                    {
+                        "name": "模块化（如CommonJS、WebPack）"
+                    }
+                ]
+            },
+            {
+                "name": "调试",
+                "children": [
+                    {
+                        "name": "浏览器调试"
+                    },
+                    {
+                        "name": "Debug工具"
+                    },
+                    {
+                        "name": "Wireshark / Charles抓包"
+                    },
+                    {
+                        "name": "远程设备调试（如Chrome Inspect Devices）"
+                    }
+                ]
+            },
+            {
+                "name": "测试",
+                "children": [
+                    {
+                        "name": "单元测试"
+                    },
+                    {
+                        "name": "服务测试"
+                    },
+                    {
+                        "name": "UI测试"
+                    },
+                    {
+                        "name": "集成测试"
+                    }
+                ]
+            },
+            {
+                "name": "性能与优化",
+                "children": [
+                    {
+                        "name": "PageSpeed / Yslow 优化"
+                    },
+                    {
+                        "name": "加载优化（如gzip压缩、缓存等等）"
+                    },
+                    {
+                        "name": "性能测试（特别是移动Web）"
+                    },
+                    {
+                        "name": "可用性"
+                    },
+                    {
+                        "name": "压缩（如Minify、Uglify、CleanCSS等等）"
+                    }
+                ]
+            },
+            {
+                "name": "设计",
+                "children": [
+                    {
+                        "name": "切页面"
+                    },
+                    {
+                        "name": "线框图（Wireframe）"
+                    },
+                    {
+                        "name": "响应式设计"
+                    },
+                    {
+                        "name": "网格布局（Grid Layout）"
+                    },
+                    {
+                        "name": "Flexbox布局"
+                    }
+                ]
+            },
+            {
+                "name": "SEO",
+                "children": [
+                    {
+                        "name": "Sitemap（站点地图）"
+                    },
+                    {
+                        "name": "内部链接建设"
+                    },
+                    {
+                        "name": "MicroData / MicroFormat"
+                    },
+                    {
+                        "name": "页面静态内容生成"
+                    },
+                    {
+                        "name": "H1、H2、H3和strong使用"
+                    },
+                    {
+                        "name": "Title、Description优化"
+                    },
+                    {
+                        "name": "页面静态内容生成"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "后台技能图谱",
+        "children": [
+            {
+                "name": "入门",
+                "children": [
+                    {
+                        "name": "HTML / CSS"
+                    },
+                    {
+                        "name": "HTTP协议基础"
+                    },
+                    {
+                        "name": "CGI基础"
+                    }
+                ]
+            },
+            {
+                "name": "中级篇",
+                "children": [
+                    {
+                        "name": "XML和JSON处理"
+                    },
+                    {
+                        "name": "数据结构与算法"
+                    },
+                    {
+                        "name": "面向对象编程"
+                    },
+                    {
+                        "name": "CMS"
+                    },
+                    {
+                        "name": "API设计"
+                    },
+                    {
+                        "name": "网络通信协议，如TCP / Socket"
+                    }
+                ]
+            },
+            {
+                "name": "高级篇",
+                "children": [
+                    {
+                        "name": "函数式编程"
+                    },
+                    {
+                        "name": "领域驱动设计"
+                    },
+                    {
+                        "name": "MVC架构"
+                    },
+                    {
+                        "name": "运行环境优化，如JVM"
+                    },
+                    {
+                        "name": "远程调试    "
+                    }
+                ]
+            },
+            {
+                "name": "工程化",
+                "children": [
+                    {
+                        "name": "版本管理"
+                    },
+                    {
+                        "name": "单元测试"
+                    },
+                    {
+                        "name": "依赖管理"
+                    },
+                    {
+                        "name": "包管理    "
+                    }
+                ]
+            },
+            {
+                "name": "基础设施",
+                "children": [
+                    {
+                        "name": "虚拟化，如Docker"
+                    },
+                    {
+                        "name": "自动化部署"
+                    },
+                    {
+                        "name": "应用包创建、管理、发布"
+                    },
+                    {
+                        "name": "发布脚本编写"
+                    },
+                    {
+                        "name": "Web容器，如Jboss"
+                    }
+                ]
+            },
+            {
+                "name": "缓存篇",
+                "children": [
+                    {
+                        "name": "应用层缓存 "
+                    },
+                    {
+                        "name": "平台缓存"
+                    },
+                    {
+                        "name": "数据库端缓存"
+                    },
+                    {
+                        "name": "分布式缓存 "
+                    }
+                ]
+            },
+            {
+                "name": "数据持久化",
+                "children": [
+                    {
+                        "name": "SQL"
+                    },
+                    {
+                        "name": "NoSQL"
+                    },
+                    {
+                        "name": "ORM"
+                    },
+                    {
+                        "name": "DBMS"
+                    },
+                    {
+                        "name": "搜索引擎"
+                    }
+                ]
+            },
+            {
+                "name": "数据库",
+                "children": [
+                    {
+                        "name": "查询性能优化"
+                    },
+                    {
+                        "name": "结构优化"
+                    },
+                    {
+                        "name": "主从复制、主主复制等等"
+                    },
+                    {
+                        "name": "伸缩性与高可用性"
+                    },
+                    {
+                        "name": "备份恢复与容灾"
+                    }
+                ]
+            },
+            {
+                "name": "安全和加密",
+                "children": [
+                    {
+                        "name": "认证与会话管理"
+                    },
+                    {
+                        "name": "加密解密"
+                    },
+                    {
+                        "name": "数字签名、数字证书"
+                    },
+                    {
+                        "name": "加密算法"
+                    },
+                    {
+                        "name": "XSS/CSRF/SQL注入"
+                    }
+                ]
+            },
+            {
+                "name": "监控",
+                "children": [
+                    {
+                        "name": "应用性能监控"
+                    },
+                    {
+                        "name": "异常监控"
+                    },
+                    {
+                        "name": "日志"
+                    },
+                    {
+                        "name": "流量监控"
+                    }
+                ]
+            },
+            {
+                "name": "服务",
+                "children": [
+                    {
+                        "name": "RESTful"
+                    },
+                    {
+                        "name": "SOA"
+                    },
+                    {
+                        "name": "RPC"
+                    },
+                    {
+                        "name": "MicroServices"
+                    }
+                ]
+            },
+            {
+                "name": "消息",
+                "children": [
+                    {
+                        "name": "JMS"
+                    },
+                    {
+                        "name": "IPC"
+                    },
+                    {
+                        "name": "MQ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DevOps技能图谱",
+        "children": [
+            {
+                "name": "入门篇",
+                "children": [
+                    {
+                        "name": "编写脚本，如Shell、Perl、Python等等"
+                    },
+                    {
+                        "name": "编程语言"
+                    },
+                    {
+                        "name": "Web应用运行基本原理"
+                    },
+                    {
+                        "name": "HTTP服务器"
+                    },
+                    {
+                        "name": "应用容器"
+                    },
+                    {
+                        "name": "命令行，如awk"
+                    },
+                    {
+                        "name": "CGI"
+                    },
+                    {
+                        "name": "修复漏洞"
+                    }
+                ]
+            },
+            {
+                "name": "中级篇",
+                "children": [
+                    {
+                        "name": "自动化运维"
+                    },
+                    {
+                        "name": "GNU/Linux操作系统"
+                    },
+                    {
+                        "name": "编译"
+                    },
+                    {
+                        "name": "数据库"
+                    }
+                ]
+            },
+            {
+                "name": "高级篇",
+                "children": [
+                    {
+                        "name": "分布式文件系统 "
+                    },
+                    {
+                        "name": "分布式存储系统"
+                    }
+                ]
+            },
+            {
+                "name": "云服务",
+                "children": [
+                    {
+                        "name": "存储服务，如AWS S3"
+                    },
+                    {
+                        "name": "计算服务，如AWS Lambda"
+                    },
+                    {
+                        "name": "托管服务，如AWS EC2"
+                    }
+                ]
+            },
+            {
+                "name": "网络",
+                "children": [
+                    {
+                        "name": "CCNP / CCNA    "
+                    }
+                ]
+            },
+            {
+                "name": "持续集成",
+                "children": [
+                    {
+                        "name": "持续集成工具"
+                    },
+                    {
+                        "name": "自动构建工具"
+                    },
+                    {
+                        "name": "依赖管理工具"
+                    },
+                    {
+                        "name": "版本管理工具"
+                    }
+                ]
+            },
+            {
+                "name": "虚拟化",
+                "children": [
+                    {
+                        "name": "应用容器虚拟化，如Docker"
+                    },
+                    {
+                        "name": "环境虚拟化"
+                    },
+                    {
+                        "name": "操作系统虚拟化"
+                    }
+                ]
+            },
+            {
+                "name": "自动化 (puppet,chef)",
+                "children": [
+                    {
+                        "name": "自动化配置"
+                    },
+                    {
+                        "name": "自动化部署"
+                    },
+                    {
+                        "name": "进程管理工具，如Supervisor"
+                    }
+                ]
+            },
+            {
+                "name": "监控",
+                "children": [
+                    {
+                        "name": "基础设施监控"
+                    },
+                    {
+                        "name": "日志管理"
+                    },
+                    {
+                        "name": "监控服务 "
+                    }
+                ]
+            },
+            {
+                "name": "负载均衡",
+                "children": [
+                    {
+                        "name": "边缘缓存，如（Varnish）"
+                    },
+                    {
+                        "name": "DNS负载均衡"
+                    },
+                    {
+                        "name": "CDN"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "软技能图谱",
+        "children": [
+            {
+                "name": "影响力 / 个人品牌",
+                "children": [
+                    {
+                        "name": "写作"
+                    },
+                    {
+                        "name": "演讲"
+                    },
+                    {
+                        "name": "培训"
+                    },
+                    {
+                        "name": "博客"
+                    },
+                    {
+                        "name": "社交媒体"
+                    }
+                ]
+            },
+            {
+                "name": "社区",
+                "children": [
+                    {
+                        "name": "社交媒体交流"
+                    },
+                    {
+                        "name": "自媒体平台"
+                    },
+                    {
+                        "name": "技术社区"
+                    },
+                    {
+                        "name": "问答社区"
+                    }
+                ]
+            },
+            {
+                "name": "持续学习",
+                "children": [
+                    {
+                        "name": "学习新技术、语言"
+                    }
+                ]
+            },
+            {
+                "name": "健康",
+                "children": [
+                    {
+                        "name": "运动"
+                    },
+                    {
+                        "name": "不熬夜"
+                    }
+                ]
+            },
+            {
+                "name": "生产力",
+                "children": [
+                    {
+                        "name": "熟悉工具"
+                    },
+                    {
+                        "name": "快捷键、快捷键、快捷键"
+                    }
+                ]
+            },
+            {
+                "name": "估算",
+                "children": [
+                    {
+                        "name": "完成时间估算"
+                    },
+                    {
+                        "name": "延迟花费"
+                    },
+                    {
+                        "name": "预算估算"
+                    },
+                    {
+                        "name": "薪资估算"
+                    }
+                ]
+            },
+            {
+                "name": "其他 ",
+                "children": [
+                    {
+                        "name": "面试"
+                    },
+                    {
+                        "name": "客户沟通"
+                    }
+                ]
+            }
+        ]
+    }
+]
